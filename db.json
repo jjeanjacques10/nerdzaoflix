@@ -1,0 +1,126 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Meetups",
+      "descricao": "Meetups diversos",
+      "cor": "#FF668A",
+      "link_extra": {
+        "text": "Meetups diversos",
+        "url": "https://www.meetup.com/pt-BR/nerdzao/"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "Nerdzão Academy",
+      "descricao": "Venha aprender com a gente!",
+      "cor": "#FF668A",
+      "link_extra": {
+        "text": "Venha aprender com a gente!",
+        "url": "https://www.meetup.com/pt-BR/nerdzao/"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "Nerdzão Week",
+      "descricao": "Uma semana de conteúdos incríveis!",
+      "cor": "#FF668A",
+      "link_extra": {
+        "text": "Uma semana de conteúdos incríveis!",
+        "url": "https://www.meetup.com/pt-BR/nerdzao/"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "[Online] Nerdzao #212 - Inteligência Artificial",
+      "url": "https://www.youtube.com/watch?v=WYDSJyQhRSw"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "NerdZão #224- Acessibilidade nos jogos",
+      "url": "https://www.youtube.com/watch?v=NKCWwWMdaDA"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "[Online] Nerdzão #223 & TOTVS Developers - Angular",
+      "url": "https://www.youtube.com/watch?v=gDBtevBldQU"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "[Online] Nerdzao #222 -Saúde Mental",
+      "url": "https://www.youtube.com/watch?v=_dw-e_EV--o"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Nerdzão #221 - React",
+      "url": "https://www.youtube.com/watch?v=t46n7REGswQ"
+    },
+    {
+      "id": 6,
+      "categoriaId": 2,
+      "titulo": "Academy #1 - Apresentação",
+      "url": "https://www.youtube.com/watch?v=0QfhLtuvc8A&list=PLwLn7xQnm1cb6Gtj-8tOzo854VAnglaba&index=1"
+    },
+    {
+      "id": 7,
+      "categoriaId": 2,
+      "titulo": "Academy #2 - Escopo do Projeto",
+      "url": "https://www.youtube.com/watch?v=Bx-e2oD9FhI&list=PLwLn7xQnm1cb6Gtj-8tOzo854VAnglaba&index=2"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "Academy #3 - HTML, CSS e Javascript",
+      "url": "https://www.youtube.com/watch?v=-WQ3YHivNAc&list=PLwLn7xQnm1cb6Gtj-8tOzo854VAnglaba&index=3"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Academy #4 - Instalando o Visual Studio Code",
+      "url": "https://www.youtube.com/watch?v=YRRv26FUBZs&list=PLwLn7xQnm1cb6Gtj-8tOzo854VAnglaba&index=4"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Academy #5 - Hello World com HTML",
+      "url": "https://www.youtube.com/watch?v=T4r9UHDxsUQ&list=PLwLn7xQnm1cb6Gtj-8tOzo854VAnglaba&index=5"
+    },
+    {
+      "id": 11,
+      "categoriaId": 3,
+      "titulo": "NerdZão Week - Trilha de hoje Dados / Power BI / R",
+      "url": "https://www.youtube.com/watch?v=QWN1azXp6Vo&list=PLwLn7xQnm1caixzKUbvlMtQO3dpnFYrTQ&index=2"
+    },
+    {
+      "id": 12,
+      "categoriaId": 3,
+      "titulo": "NerdZão Week - Trilha de hoje NodeJS / TypeScript",
+      "url": "https://www.youtube.com/watch?v=2yJp9pXSt_o&list=PLwLn7xQnm1caixzKUbvlMtQO3dpnFYrTQ&index=3"
+    },
+    {
+      "id": 13,
+      "categoriaId": 3,
+      "titulo": "NerdZão Week - Trilha de hoje IA / Machine Learning / Python",
+      "url": "https://www.youtube.com/watch?v=e6FdyO08BK8&list=PLwLn7xQnm1caixzKUbvlMtQO3dpnFYrTQ&index=4"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "Sorteio da camiseta oficial do nerdzão | #NerdzãoWeek",
+      "url": "https://www.youtube.com/watch?v=HjpIChxUE-8&list=PLwLn7xQnm1caixzKUbvlMtQO3dpnFYrTQ&index=1"
+    },
+    {
+      "titulo": "[Online] Nerdzão #214 - Linguagem R",
+      "url": "https://www.youtube.com/watch?v=wxRW_N0nnVY",
+      "categoriaId": 1,
+      "id": 15
+    }
+  ]
+}
